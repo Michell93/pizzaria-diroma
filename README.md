@@ -51,17 +51,17 @@ O projeto inclui carrossel de imagens, cardápio, equipe, depoimentos, formulár
    ```
 2. Entre na pasta:
    ```bash
-cd pizzaria-diroma
+   cd pizzaria-diroma
     ```
 3. Abra o arquivo index.html no navegador.
 
 🌐 Publicação no GitHub PagesEste projeto está publicado no GitHub Pages.
 Para atualizar o site online, basta fazer alterações e rodar:
-```bash
-git add .
-git commit -m "Atualização do site"
-git push
-```
+   ```bash
+   git add .
+   git commit -m "Atualização do site"
+   git push
+   ```
 
 
 
