@@ -48,11 +48,11 @@ O projeto inclui carrossel de imagens, cardápio, equipe, depoimentos, formulár
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Michell93/pizzaria-diroma.git
-   ```bash
+   ```
 2. Entre na pasta:
    ```bash
 cd pizzaria-diroma
-    ```bash
+    ```
 3. Abra o arquivo index.html no navegador.
 
 🌐 Publicação no GitHub PagesEste projeto está publicado no GitHub Pages.
@@ -61,7 +61,7 @@ Para atualizar o site online, basta fazer alterações e rodar:
 git add .
 git commit -m "Atualização do site"
 git push
-```bash
+```
 
 
 
